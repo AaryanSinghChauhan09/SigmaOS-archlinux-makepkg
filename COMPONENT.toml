@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-makepkg"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-makepkg component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
